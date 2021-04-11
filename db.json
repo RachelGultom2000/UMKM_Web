@@ -1,6 +1,4 @@
 {
-    "success": true,
-    "message": "Berhasil mengambil data",
     "result": {
         "docs": [{
                 "promotionTags": [],
