@@ -1,6 +1,6 @@
 {
-    "result": {
-        "docs": [{
+    "products": [
+        {
                 "promotionTags": [],
                 "sumCountView": 0,
                 "isAvailable": true,
@@ -171,16 +171,6 @@
                 "imgProduct": "1616413960744-66c335727ed9101ea8aca02be7a51c99",
                 "__v": 0,
                 "priceServiceRange": ""
-            }
-        ],
-        "totalDocs": 24,
-        "limit": 10,
-        "totalPages": 3,
-        "page": 1,
-        "pagingCounter": 1,
-        "hasPrevPage": false,
-        "hasNextPage": true,
-        "prevPage": null,
-        "nextPage": 2
-    }
+        }
+    ]
 }
